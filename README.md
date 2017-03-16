@@ -9,3 +9,5 @@ Compass and Straight edge game:  https://sciencevsmagic.net/geo/
 Manufactoria: http://pleasingfungus.com/Manufactoria/
 
 Over the wire, Bandit: http://overthewire.org/wargames/bandit/
+
+CTF: https://github.com/meitar/CTF
